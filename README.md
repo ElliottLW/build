@@ -15,7 +15,7 @@ Build //localhost brings Microsoft Build to your city — a hands-on, community-
 What happens when you let AI agents do the building? In this hands-on lab, you'll go from an empty terminal to a deployed app on Azure — with GitHub Copilot CLI and coding agents handling the scaffolding, coding, debugging, and deployment. You'll use the new Azure skills to provision resources and wire up services through natural language, no portal required.
 
 ### [Skillable Link](https://buildlocalhost.learnondemand.net) <br>
-### Skillable ID: TBC
+### Skillable ID: 317FCADE74720CE2
 
 ---
 
